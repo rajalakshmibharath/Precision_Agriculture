@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "cnnClassifier"  #giving project name is optional (chk this)
+project_name = "Crop_rec and Dis_pred"  #giving project name is optional (chk this)
 
 list_of_files = [
     ".github/workflows/.gitkeep",
