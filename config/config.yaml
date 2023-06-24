@@ -1,0 +1,10 @@
+artifacts_root: artifacts
+
+#Here we created an artifacts folder and within we create dta_ingestion folder am
+#source url- github url and the downloaded zip file as local_data_file and the unzip file 
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: data/crop recommendation.csv
+  des_dir: artifacts/data_ingestion
+
+  
